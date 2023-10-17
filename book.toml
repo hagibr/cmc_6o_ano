@@ -1,0 +1,17 @@
+[book]
+authors = ["hagibr"]
+language = "pt-br"
+multilingual = false
+src = "src"
+title = "Provas Colégio Militar de Curitiba (CMC) - 6º ano"
+
+[output.html]
+default-theme = "rust"
+mathjax-support = true
+
+[output.html.print]
+enable = true    # include support for printable output
+page-break = true # insert page-break after each chapter
+
+[output.html.fold]
+enable = true
