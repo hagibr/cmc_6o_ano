@@ -1,6 +1,6 @@
 # Summary
 
-- [Introdução](./introducao.md)
+[Introdução](./introducao.md)
 - [2020/2021](./2020_2021.md)
   - [Questão 1](./2020_2021/Questao01.md)
   - [Questão 2](./2020_2021/Questao02.md)
