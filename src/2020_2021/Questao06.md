@@ -12,7 +12,7 @@ Promoção 4: leve 27 e pague 24
 
 Promoção 5: leve 35 e pague 30
 
-João possui um restaurante e compra diariamente muitas laranjas, pois mesmo que não sejam consumidas no dia da compra, poderão ser armazenaas e consumidas nos dias seguintes.
+João possui um restaurante e compra diariamente muitas laranjas, pois mesmo que não sejam consumidas no dia da compra, poderão ser armazenadas e consumidas nos dias seguintes.
 
 Assinale abaixo qual das promoções seria mais vantajosa para João:
 
