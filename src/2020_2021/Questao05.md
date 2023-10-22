@@ -31,6 +31,8 @@ Em relação ao copo grande, podemos afirmar que:
   Foi dado que \\(P = \frac{M}{3}\\), ou seja, \\(M = 3P = 3 \times 100 = 300\\) ml.
 
   Também foi dado que \\(M = \frac{2G}{5}\\), ou seja, \\(G = \frac{5M}{2} = \frac{5 \times 300}{2} = 750 \\) ml.
+  
+  ![image](./resolucao05_fig01.png)
 
   Ao despejar o conteúdo dos copos pequeno (100 ml) e médio (300 ml) no copo grande, não iremos enchê-lo, pois a soma deles é de 400 ml de água. Isso corresponde à fração de \\( \frac{P+M}{G} = \frac{400}{750} = \frac{8}{15}\\) da capacidade total do copo grande.
 
