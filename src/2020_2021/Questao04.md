@@ -31,10 +31,17 @@ Considere que as peças estejam perfeitamente alinhadas, isso é, não existem e
 
   D: visualmente, observamos que o lado do quadrado D é igual à soma dos lados dos quadrados B e C, ou seja, \\(d = b + c = 5 + 12 = 17\\) cm
 
+  ![image](./resolucao04_fig01.png)
+
   E: visualmente, observamos que a soma dos lados dos quadrados A e E é igual à soma dos lados dos quadrados C e D:
+
+  ![image](./resolucao04_fig02.png)
+
   \\[ \begin{equation}
   a + e = c + d \\\\
-  e = c + d - a = 12 + 17 - 5 = 24 \text{ cm}
+  e = c + d - a \\\\
+  e = 12 + 17 - 5 \\\\
+  e = 24 \text{ cm}
   \end{equation} \\]
 
   E assim, calculamos a área do quadrado E:
