@@ -38,7 +38,9 @@ Considerando os valores da tabela acima, de quanto seria o valor da conta de ág
   
   ## Resolução
 
-  Olhando para o detalhamento da fatura, conclui-se que Thaíssa consumiu 26 m³ neste mês. Se tivesse consumido 30 m³, ou seja, 4 m³ a mais, estes 4 m³ seriam cobrados R$ 4,80 o m³, logo a conta seria de 4 x R$ 4,80 = R$ 19,20 a mais. R$ 71,80 + R$ 19,20 = R$ 91,00.
+  Olhando para o detalhamento da fatura, conclui-se que Thaíssa consumiu 26 m³ neste mês. Se tivesse consumido 30 m³, ou seja, 4 m³ a mais, estes 4 m³ seriam cobrados R$ 4,80 por m³, por estar na faixa acima de 20 m³. Logo a conta seria de 4 x R$ 4,80 = R$ 19,20 a mais.
+  
+  R$ 71,80 + R$ 19,20 = R$ 91,00.
 
   > Resposta: Alternativa (E)
 </details>
