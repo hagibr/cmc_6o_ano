@@ -19,7 +19,7 @@ Considerando as informações acima, pode-se estimar que faltam quantas semanas 
   
   ## Resolução
 
-  Como a cada semana existe um acréscimo de 650m em relação à semana anterior, podemos dizer que as quantidade de metros em relação ao número da semana forma uma Progressão Aritmética.
+  Como a cada semana existe um acréscimo de 650 m em relação à semana anterior, podemos dizer que as quantidade de metros em relação ao número da semana formam uma Progressão Aritmética (P.A.).
   Na P.A., o termo geral \\(a_n\\) é calculado por:
   \\[a_n = a_1 + (n-1) \cdot r\\]
   Sendo \\(a_1\\) o primeiro termo, que no caso seria a quantidade de metros da 1ª semana, \\(n\\) é o número da semana e \\(r\\) a razão, ou seja, 650.
