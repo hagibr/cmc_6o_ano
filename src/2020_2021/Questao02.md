@@ -21,9 +21,9 @@ Qual foi o valor pago por Alice?
 
   Aqui basta usarmos uma regra de três. Se marcos pagou por 56% do bolo, então Alice deve ter pago os 44% restantes do bolo.
 
-  \\[ \\begin{equation} 56 \\% \propto \text{42,00} \\\\ 44 \\% \propto x \\end{equation} \\]
+  \\( \\begin{equation} 56 \\% \propto \text{42,00} \\\\ 44 \\% \propto x \\end{equation} \\)
 
-  \\[ x = \frac{44 \times \text{42,00}}{56} = \text{33,00}\\]
+  \\( x = \displaystyle \frac{44 \times \text{42,00}}{56} \\) = 33,00
 
   > Resposta: Alternativa (C)
 </details>
