@@ -25,11 +25,16 @@ Qual foi a média aritmética das notas desses 10 (dez) alunos?
   ## Resolução
   
   A nota média é calculada usando a seguinte fórmula:
-  \\[\text{nota média}=\frac{\text{soma das notas}}{\text{total de alunos}}\\]
-  
-  Como sabemos que houve apenas 1 nota 10 e 9 notas 9, a soma das notas é igual a \\(1 \times 10 + 9 \times 9 = 91\\), e como são 10 alunos, calculamos a média:
 
-  \\[\text{nota média}=\frac{91}{10}={\text{9,1}}\\]
+  nota média = \\(\displaystyle \frac{\text{soma das notas}}{\text{total de alunos}}\\)
+  
+  Como sabemos que houve apenas 1 nota 10 e 9 notas 9, calculamos a soma das notas:
+  
+  soma das notas = \\(1 \times 10 + 9 \times 9 = 91\\)
+  
+  e como são 10 alunos, calculamos a média:
+
+  nota média = \\( \displaystyle \frac{91}{10} \\) = 9,1
 
   > Resposta: Alternativa (D)
 </details>
