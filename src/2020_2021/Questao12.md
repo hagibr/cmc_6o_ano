@@ -14,7 +14,8 @@ O serviço é cobrado por faixas de consumo, de acordo com a tabela abaixo:
       \hline
       \text{Até 10 m³} & \text{R\\$ 1,50} \\\\
       \hline
-      \text{Acima de 10 m³ e até 20 m³} & \text{R\\$ 2,80} \\\\
+      \text{Acima de 10 m³} & \text{R\\$ 2,80} \\\\
+      \text{e até 20 m³} & \\\\
       \hline
       \text{Acima de 20 m³} & \text{R\\$ 4,80} \\\\
       \hline
