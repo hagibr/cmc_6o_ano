@@ -37,12 +37,12 @@ Considere que as peças estejam perfeitamente alinhadas, isso é, não existem e
 
   ![image](./resolucao04_fig02.png)
 
-  \\[ \begin{equation}
-  a + e = c + d \\\\
-  e = c + d - a \\\\
-  e = 12 + 17 - 5 \\\\
-  e = 24 \text{ cm}
-  \end{equation} \\]
+  \\( \begin{align}
+  a + e & = c + d \\\\
+  e & = c + d - a \\\\
+  e & = 12 + 17 - 5 \\\\
+  e & = 24 \text{ cm}
+  \end{align} \\)
 
   E assim, calculamos a área do quadrado E:
 
