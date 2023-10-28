@@ -14,3 +14,43 @@ Assim, para realizar o plantio do feijão em todo o seu terreno, José precisar�
 (D) 10.460 grãos de feijão.
 
 (E) 2.354 grãos de feijão.
+
+<details>
+  <summary>Resolução</summary>
+ 
+  ## Resolução
+
+  Primeiro vamos calcular o comprimento:
+
+  \\(
+    \begin{equation}
+      \text{Comprimento} = \displaystyle \frac{3}{10} \times \text{Largura} \\\\
+      \text{Comprimento} = \displaystyle \frac{3}{10} \times 120 = \displaystyle \frac{3 \times 120}{10} = \frac{360}{10} = 36 \\\\
+    \end{equation}
+  \\)  
+
+  Agora calculamos a área do terreno de José:
+
+  \\(
+    \begin{equation}
+      \text{Area} = \text{Comprimento} \times \text{Largura} \\\\
+      \text{Area} = 36 \times 120 = 4.320 \text{m²}\\\\
+    \end{equation}
+  \\)
+
+  E podemos calcular quantos grãos caberão nesta área:
+
+  \\(
+    \begin{align}
+      600 \text{ m²} &\propto 3.270 \text{ feijões} \\\\
+      4.320 \text{ m²} &\propto x \text{ feijões}
+    \end{align}
+  \\)
+
+  \\(
+    x = \displaystyle \frac{4.320 \times 3.270}{600} = \displaystyle \frac{14.126.400}{600} = 23.544
+  \\)
+
+  > Resposta: Alternativa (A)
+
+</details>
