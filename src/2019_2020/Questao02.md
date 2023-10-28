@@ -67,12 +67,12 @@ Qual o valor pago por Maria Fernanda pelo lanche?
   
   \\( 
     \begin{align}
-    \times R + 2 \times P &= 17 \\\\
-    5 + 2 \times P        &= 17 \\\\
-    2 \times P            &= 17 - 5 \\\\
-    2 \times P            &= 12 \\\\
-    P                     &= \displaystyle \frac{12}{2} \\\\
-    P                     &= 6
+    R + 2 \times P &= 17 \\\\
+    5 + 2 \times P &= 17 \\\\
+    2 \times P     &= 17 - 5 \\\\
+    2 \times P     &= 12 \\\\
+    P              &= \displaystyle \frac{12}{2} \\\\
+    P              &= 6
     \end{align}  
   \\)
 
