@@ -49,3 +49,108 @@ Com base nessas informações, qual será o custo dos ingredientes para um prato
 (D) R$ 10,65
 
 (E) R$ 10,96
+
+## Resolução
+\\(\require{cancel}\\)
+Para cada ingrediente, vamos primeiro calcular a quantidade de ingrediente que vai em 1 porção e então calcular o custo desta fração de ingrediente para compor o preço do prato de salada.
+
+Rúcula: 1 maço rende 7 porções, logo 1 porção utiliza \\(\displaystyle \frac{1}{7}\\) de maço.
+
+\\(
+  \begin{align}
+    1 \text{ maço} & \propto \text{3,64} \\\\
+    \displaystyle \frac{1}{7} \text{ maço} & \propto x \\\\
+  \end{align}\\\\
+   x = \displaystyle \frac{1}{7} \times \text{3,64} = \frac{\text{3,64}}{7} = \text{0,52}
+\\)
+
+Alface: 1 maço rende 6 porções, logo 1 porção utiliza  \\(\displaystyle \frac{1}{6}\\) de maço.
+
+\\(
+  \begin{align}
+    1 \text{ maço} & \propto \text{2,40} \\\\
+    \displaystyle \frac{1}{6} \text{ maço} & \propto x \\\\
+  \end{align}\\\\
+  x = \displaystyle \frac{1}{6} \times \text{2,40} = \frac{\text{2,40}}{6} = \text{0,40}
+\\)
+
+Queijo minas: 500 g para 5 porções, logo 100 g para 1 porção. Lembrando que 1 kg = 1.000 g.
+
+\\(
+  \begin{align}
+    1.000 \text{ g} & \propto \text{30,00} \\\\
+    100 \text{ g} & \propto x \\\\
+  \end{align}\\\\
+  x = \displaystyle \frac{\cancelto{1}{100} \times \text{30,00}}{\cancelto{10}{1.000}} = \frac{\text{30,00}}{10} = \text{3,00}
+\\)
+
+Tomate cereja: 180 g para 3 porções, logo 60 g para 1 porção.
+
+\\(
+  \begin{align}
+    300 \text{ g} & \propto \text{5,75} \\\\
+    60 \text{ g} & \propto x \\\\
+  \end{align}\\\\
+  x = \displaystyle \frac{\cancelto{1}{60} \times \text{5,75}}{\cancelto{5}{300}} = \frac{5,75}{5} = \text{1,15}
+\\)
+
+Ovos de codorna: meia dúzia de ovos (6 ovos) para 2 porções, logo 3 ovos para 1 porção.
+
+\\(
+  \begin{align}
+    12 & \propto \text{3,00} \\\\
+    3 & \propto x \\\\
+  \end{align}\\\\
+  x = \displaystyle \frac{\cancelto{1}{3} \times \text{3,00}}{\cancelto{4}{12}} = \frac{3,00}{4} = \text{0,75}
+\\)
+
+Palmito: 300 g para 6 porções, logo 50 g para 1 porção.
+
+\\(
+  \begin{align}
+    300 \text{ g} & \propto \text{15,00} \\\\
+    50 \text{ g} & \propto x \\\\
+  \end{align}\\\\
+  x = \displaystyle \frac{\cancelto{1}{50} \times \text{15,00}}{\cancelto{6}{300}} = \frac{15,00}{6} = \text{2,50}
+\\)
+
+Vinagre balsâmico: 300 ml para 20 porções, logo 15 ml para 1 porção.
+
+\\(
+  \begin{align}
+    500 \text{ ml} & \propto \text{40,00} \\\\
+    15 \text{ ml} & \propto x \\\\
+  \end{align}\\\\
+  x = \displaystyle \frac{\cancelto{3}{15} \times \text{40,00}}{\cancelto{100}{500}} = \frac{120,00}{100} = \text{1,20}
+\\)
+
+Azeite de oliva: 40 ml para 2 porções, logo 20 ml para 1 porção.
+
+\\(
+  \begin{align}
+    750 \text{ ml} & \propto \text{30,00} \\\\
+    20 \text{ ml} & \propto x \\\\
+  \end{align}\\\\
+  x = \displaystyle \frac{20 \times \cancelto{\text{1,00}}{\text{30,00}}}{\cancelto{25}{750}} = \frac{20,00}{25} = \text{0,80}
+\\)
+
+Resumo:
+
+\\(
+  \begin{array}{|l|r|}
+  \hline
+  \text{Rúcula}             & 0,52 \\\\
+  \text{Alface}             & 0,40 \\\\
+  \text{Queijo minas}       & 3,00 \\\\
+  \text{Tomate cereja}      & 1,15 \\\\
+  \text{Ovos de codorna}    & 0,75 \\\\
+  \text{Palmito}            & 2,50 \\\\
+  \text{Vinagre balsâmico}  & 1,20 \\\\
+  \text{Azeite de oliva}    & 0,80 \\\\
+  \hline
+  \text{Total}              & 10,32\\\\
+  \hline
+  \end{array}  
+\\)
+
+> Resposta: Alternativa (B)

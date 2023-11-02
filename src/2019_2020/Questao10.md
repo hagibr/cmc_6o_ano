@@ -21,3 +21,19 @@ Após ter saído da estação D, onde fez sua terceira parada, pode-se afirmar q
 (D) 188
 
 (E) 112
+
+## Resolução
+
+Vamos avaliar a sequência de estações, contabilizando cuidadosamente o quanto de passageiros que saem e que entram.
+
+Estação A: Não desembarcou ninguém porque é a primeira estação, e embarcaram 240 passageiros. 
+
+Estação B: Desembarcaram 25% de 240, que é 1/4 deles, ou seja, desembarcaram 60 passageiros, logo restaram 240 - 60 = 180 passageiros. Embarcaram 1/4 dos que restaram, ou seja, 1/4 de 180 = 45, logo partiram 180 + 45 = 225 passageiros da estação B.
+
+Estação C: Desembarcaram 2/5 de 225, ou seja, 90 passageiros, então permaneceram 225 - 90 = 135 passageiros. Embarcaram 1/2 de 90 (1/2 dos que desembarcaram), ou seja, 45 passageiros, logo partiram 135 + 45 = 180 passageiros da estação C.
+
+Estação D: Desembarcaram 3/10 de 180, ou seja, 54 passageiros, restando 180 - 54 = 126 passageiros. Embarcaram 3 vezes 54 (triplo dos que desembarcaram), ou seja, 162. Assim, partiram da estação D 126 + 162 = 288 passageiros.
+
+A questão pede a quantidade de assentos vazios. Como são 400 assentos no total, restam 400 - 288 = 112 assentos vagos.
+
+> Resposta: Alternativa (E)
