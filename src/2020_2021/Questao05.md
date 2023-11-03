@@ -2,7 +2,7 @@
 
 Na casa de Márcio, existem copos com três diferentes capacidades: um copo pequeno cuja capacidade é de 100 ml, um copo médio e um copo grande.
 
-![image](./questao05_fig01.png)
+![image](./img/questao05_fig01.png)
 
 A capacidade de cada copo pequeno corresponde a \\(\displaystyle \frac{1}{3}\\) da capacidade do copo médio.
 
@@ -32,7 +32,7 @@ Em relação ao copo grande, podemos afirmar que:
 
   Também foi dado que \\(M = \displaystyle \frac{2G}{5}\\), ou seja, \\(G = \displaystyle \frac{5M}{2} = \displaystyle \frac{5 \times 300}{2} = 750 \\) ml.
   
-  ![image](./resolucao05_fig01.png)
+  ![image](./img/resolucao05_fig01.png)
 
   Ao despejar o conteúdo dos copos pequeno (100 ml) e médio (300 ml) no copo grande, não iremos enchê-lo, pois a soma deles é de 400 ml de água. Isso corresponde à fração de \\( \displaystyle \frac{P+M}{G} = \displaystyle \frac{400}{750} = \displaystyle \frac{8}{15}\\) da capacidade total do copo grande.
 

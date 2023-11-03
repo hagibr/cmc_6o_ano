@@ -4,7 +4,7 @@ João Lucas gostava muito de solucionar exercícios relacionados a sólidos geom
 
 Nas figuras, a seguir, estão apresentados três sólidos geométricos.
 
-![image](./questao19_fig01.png)
+![image](./img/questao19_fig01.png)
 
 Considere:
 

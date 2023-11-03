@@ -2,7 +2,7 @@
 
 Na malha quadriculada de 15x15 quadradinhos, ilustrada abaixo, está desenhada uma figura construída a partir das sete peças de um Tangram e identificadas cada uma com uma letra.
 
-![image](./questao06_fig01.png)
+![image](./img/questao06_fig01.png)
 
 Considere que todos os quadradinhos da malha quadriculada possuem a mesma área.
 Observe as áreas identificadas na figura e considere as afirmações a seguir:
@@ -44,23 +44,23 @@ São verdadeiras somente as afirmações:
 
   Agora, vamos às figuras. Os triângulos A e B são congruentes, de base 4 e altura 2. Assim, a área de ambos é igual a \\( \displaystyle \frac{4 \times 2}{2} = 4\\).
 
-  ![image](./resolucao06_fig01.png)
+  ![image](./img/resolucao06_fig01.png)
 
   O quadrado C pode ser dividido em 2 triângulos de base 4 e altura 2, logo a área é igual a \\( 2 \times \displaystyle \frac{4 \times 2}{2} = 2 \times 4 = 8\\).
 
-  ![image](./resolucao06_fig02.png)
+  ![image](./img/resolucao06_fig02.png)
 
   O paralelogramo D possui base 4 e altura 2, logo área igual a \\(4 \times 2 = 8\\).
 
-  ![image](./resolucao06_fig03.png)
+  ![image](./img/resolucao06_fig03.png)
 
   Os triângulos E e F são congruentes, de base 8 e altura 4, logo área igual a \\( \displaystyle\frac{8 \times 4}{2} = 16 \\).
 
-  ![image](./resolucao06_fig04.png)
+  ![image](./img/resolucao06_fig04.png)
 
   O triângulo G tem base 4 e altura 4, logo área igual a \\( \displaystyle \frac{4 \times 4}{2} = 8 \\).
 
-  ![image](./resolucao06_fig05.png)
+  ![image](./img/resolucao06_fig05.png)
 
   Também podemos tabelar esses valores para avaliar mais facilmente as afirmações:
 

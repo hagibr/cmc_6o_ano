@@ -2,11 +2,11 @@
 
 Estela teve a ideia de construir um quadrado mágico utilizando alguns cartões que traziam a representação de números. Observe a seguir os onze cartões que ela possuía, considerando que eles são quadrados e não estão em escala:
 
-![image](./questao15_fig01.png)
+![image](./img/questao15_fig01.png)
 
 Estela escolheu nove dos onze cartões que possuía, organizando-os, sem nenhuma repetição, em um quadrado mágico com três linhas e três colunas, como representado abaixo.
 
-![image](./questao15_fig02.png)
+![image](./img/questao15_fig02.png)
 
 Nesse quadrado mágico, a soma dos valores dos três números dispostos em cada linha, em cada coluna e em cada diagonal é igual a \\( \displaystyle 9\frac{3}{4} \\). Na posição central, segunda linha e segunda coluna, Estela colocou o valor correspondente a \\( \displaystyle \frac{1}{3} \\) da soma.
 Dispondo corretamente os nove números escolhidos, a fim de que a soma \\( \displaystyle 9\frac{3}{4} \\) seja satisfeita em todos os casos, a alternativa que apresenta os dois números não escolhidos por Estela é:

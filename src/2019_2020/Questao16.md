@@ -2,7 +2,7 @@
 
 Uma bola de futebol pode ser representada por um poliedro convexo cujo nome é icosaedro truncado. Esse poliedro é constituído de 20 faces hexagonais e 12 faces pentagonais cujos lados são todos congruentes entre si. Uma possível planificação desse sólido é ilustrada a seguir.
 
-![image](./questao16_fig01.png)
+![image](./img/questao16_fig01.png)
 
 Sabendo-se que nesse poliedro convexo o número de vértices é \\( \displaystyle \frac{2}{3} \\) do número de arestas, é incorreto afirmar que:
 

@@ -4,7 +4,7 @@ Em virtude da quarentena e com as aulas suspensas, Carlos comprou uma grande qua
 
 João ordenou as bolinhas de gude representando quadrados conforme as figuras abaixo.
 
-![image](./questao10_fig01.png)
+![image](./img/questao10_fig01.png)
 
 Supondo que João mantenha o padrão, quantas bolinhas ele irá utilizar para construir a figura 12?
 

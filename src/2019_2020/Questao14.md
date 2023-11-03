@@ -2,7 +2,7 @@
 
 Um garoto aproveitou o tempo livre no apartamento onde mora e resolveu montar casinhas em forma de pentágono, utilizando palitos de fósforo, seguindo o padrão ilustrado na figura abaixo. O primeiro pentágono tem lado medindo o comprimento de um palito de fósforo, o segundo tem lado medindo dois palitos de fósforo, o terceiro tem lado medindo três palitos de fósforo e assim por diante, sempre aumentando a medida do lado em um palito de fósforo de uma figura para a outra.
 
-![image](./questao14_fig01.png)
+![image](./img/questao14_fig01.png)
 
 O garoto construiu casinhas até que os fósforos que sobraram não eram suficientes para construir a próxima casinha.
 
