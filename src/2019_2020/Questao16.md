@@ -20,6 +20,8 @@ Sabendo-se que nesse poliedro convexo o número de vértices é \\( \displaystyl
 
 Temos que analisar cada afirmação e verificar a veracidade. Antes de tudo, vamos entender de onde é que veio essa idéia de "icosaedro truncado". Um icosaedro normal é um poliedro de 20 faces triangulares.
 
+[Gerei imagens fazendo o print deste site (https://www.geogebra.org/m/dkgj35sb)]: #
+
 ![image](img/resolucao16_fig01.png)
 
 Cada vértice é conectado a 5 arestas, logo podemos pensar em remover pirâmides de base pentagonal a partir de cada um desses vértices, resultando em faces pentagonais e hexagonais.
@@ -32,7 +34,7 @@ E assim chegamos no icosaedro truncado, e é sempre possível recortar as pirâm
 
 Bom, vamos às afirmações. Como \\(V = \displaystyle \frac{2A}{3}\\), então a afirmação (E) é verdadeira de cara, pois ela diz que \\(A > V\\). Também sabemos que 20 faces hexagonais mais 12 faces pentagonais resultam em 32 faces totais, logo (C) também é verdadeira. Agora precisamos saber a quantidade de arestas e vértices.
 
-Como este icosaedro truncado é um poliedro convexo, vale a relação de Euler:
+Como este icosaedro truncado é um **poliedro convexo**, vale a **relação de Euler**:
 
 \\(V + F = A + 2\\)
 
@@ -42,6 +44,7 @@ F: número de faces
 
 A: número de arestas
 
+Novamente, aplicando as relações conhecidas:
 
 \\(\displaystyle \frac{2A}{3} + 32 = A + 2\\)
 
