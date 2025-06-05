@@ -30,7 +30,7 @@ A(s) opção(ões) de mala que Maria Victoria deve escolher, atendendo às norma
 
   Como a regra da soma das dimensões foi dada em cm, vamos convertendo tudo em cm para depois fazer as somas.
 
-  I - Cubo de 0,45 m de aresta: 3 lados iguais de 45 m, logo \\(3 \times 45 = 135\\) cm. Como 135 > 115, Maria não pode usar este modelo. Já podemos eliminar a alternativa (B).
+  I - Cubo de 0,45 m de aresta: 3 lados iguais de 45 cm, logo \\(3 \times 45 = 135\\) cm. Como 135 > 115, Maria não pode usar este modelo. Já podemos eliminar a alternativa (B).
 
   II - 2,5 dm = 25 cm; 350 mm = 35 cm; 0,55 m = 55 cm. \\(25 + 35 + 55 = 115\\) cm. Este modelo tem a medida exatamente no limite do permitido. Assim, eliminamos também a alternativa (C), que não contém o modelo II como opção.
 
